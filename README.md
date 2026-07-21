@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vreta01
-- 👀 I’m interested in virtual reality and machine learning
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on VR applications
+- 👀 I’m interested in virtual reality and full-stack development
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on VR applications and open source projects
 - 📫 How to reach me: davis1s1dylan@gmail.com
 
 <!---
